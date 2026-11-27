@@ -1,0 +1,10 @@
+/* HOAN_THIEN: viết CSS cho bài làm tại đây (hoặc tách thành nhiều tệp CSS nhỏ). */
+
+/*css cho toàn bộ table*/
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  font-size: 18px;
+  text-align: left;
+}
